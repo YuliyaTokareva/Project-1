@@ -487,10 +487,9 @@ button {
   background-color: transparent;
 }
 .header__menu-icon {
-  display: none;
   width: 18px;
   height: 13px;
-  background-image: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson24/hw1/icon-hamburger.png);
+  display: inline-block;
 }
 
 .navigation {
@@ -536,6 +535,7 @@ button {
   width: 48px;
   height: 48px;
   margin-right: 13px;
+  margin-left: 15px;
 }
 .logo__name {
   font-size: 20px;
@@ -905,6 +905,12 @@ button {
 .audience__actions {
   margin-top: 30px;
   margin-bottom: 40px;
+}
+@media screen and (max-width: 1399px) {
+  .audience__actions {
+    display: flex;
+    flex-direction: column;
+  }
 }
 @media screen and (min-width: 1400px) {
   .audience__actions {
