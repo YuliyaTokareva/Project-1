@@ -30,6 +30,7 @@
     font-size: 40px;
     line-height: 40px;
     text-align: center;
+
     letter-spacing: -0.357143px;
     color: $text-color-dark-grey;
     margin: 0;
@@ -52,7 +53,7 @@
   }
   &__actions {
     margin-top: 30px;
-    margin-bottom: 40px;
+    // margin-bottom: 40px;
     @include for-large-down {
       display: flex;
       flex-direction: column;
@@ -78,6 +79,7 @@
     }
   }
   &__options {
+    margin-top: 40px;
     @include for-large-up {
       display: flex;
       margin: 111px 131px 110px 130px;
