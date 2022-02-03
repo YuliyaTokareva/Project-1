@@ -12,7 +12,9 @@
   background-color: $text-color-white;
   align-items: center;
   display: flex;
-  padding-left: 15px;
+  @include for-large-down {
+    padding-left: 15px;
+  }
   @include for-large-up {
     width: 1140px;
     height: 62px;
@@ -83,7 +85,10 @@
     width: 48px;
     height: 48px;
     margin-right: 13px;
-    margin-left: 15px;
+    // margin-left: 13px;
+    @include for-large-up {
+      margin-left: 15px;
+    }
   }
   &__name {
     font-size: 20px;
