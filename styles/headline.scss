@@ -22,6 +22,8 @@
     }
   }
   &__title {
+    margin: 0;
+    padding: 0;
     font-weight: 700;
     font-size: 50px;
     line-height: 50px;
@@ -37,6 +39,8 @@
     }
   }
   &__description {
+    margin: 0;
+    padding: 0;
     margin-top: 24px;
     font-size: 24px;
     line-height: 34px;
@@ -58,7 +62,7 @@
       display: flex;
     }
   }
-  &actions-btn {
+  &__actions-btn {
     @include for-large-down {
       width: 100%;
     }

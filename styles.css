@@ -601,6 +601,8 @@ button {
   }
 }
 .headline__title {
+  margin: 0;
+  padding: 0;
   font-weight: 700;
   font-size: 50px;
   line-height: 50px;
@@ -617,6 +619,8 @@ button {
   }
 }
 .headline__description {
+  margin: 0;
+  padding: 0;
   margin-top: 24px;
   font-size: 24px;
   line-height: 34px;
@@ -641,7 +645,7 @@ button {
   }
 }
 @media screen and (max-width: 1399px) {
-  .headlineactions-btn {
+  .headline__actions-btn {
     width: 100%;
   }
 }
@@ -868,6 +872,13 @@ button {
   margin: 0;
   padding: 0;
   margin-bottom: 15px;
+}
+@media screen and (min-width: 1400px) {
+  .audience__title {
+    font-size: 56px;
+    line-height: 56px;
+    letter-spacing: -0.5px;
+  }
 }
 .audience__text {
   font-size: 24px;
