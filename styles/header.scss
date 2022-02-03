@@ -38,6 +38,7 @@
     background-color: transparent;
   }
   &__menu-icon {
+    display: none;
     width: 18px;
     height: 13px;
     display: inline-block;
@@ -59,6 +60,7 @@
     width: 8px;
     height: 5px;
     margin-left: 11px;
+    display: none;
   }
 }
 .nav-list__item {

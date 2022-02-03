@@ -487,6 +487,7 @@ button {
   background-color: transparent;
 }
 .header__menu-icon {
+  display: none;
   width: 18px;
   height: 13px;
   display: inline-block;
@@ -510,6 +511,7 @@ button {
   width: 8px;
   height: 5px;
   margin-left: 11px;
+  display: none;
 }
 
 .nav-list__item {
@@ -883,7 +885,7 @@ button {
   color: #2b292d;
   margin: 0;
   padding: 0;
-  margin-bottom: 15px;
+  margin-bottom: 18px;
 }
 @media screen and (min-width: 1400px) {
   .audience__title {
@@ -907,7 +909,7 @@ button {
 }
 @media screen and (min-width: 1400px) {
   .audience__actions {
-    margin-top: 34px;
+    margin-top: 30px;
     margin-bottom: 0;
     text-align: center;
   }
