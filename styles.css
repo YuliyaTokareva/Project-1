@@ -1204,4 +1204,16 @@ html {
   }
 }
 
+@media screen and (max-width: 1399px) {
+  .order {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 1399px) {
+  .about {
+    display: none;
+  }
+}
+
 /*# sourceMappingURL=styles.css.map */
