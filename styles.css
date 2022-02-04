@@ -1199,12 +1199,6 @@ html {
 }
 
 @media screen and (max-width: 1399px) {
-  .footer {
-    display: none;
-  }
-}
-
-@media screen and (max-width: 1399px) {
   .order {
     display: none;
   }
