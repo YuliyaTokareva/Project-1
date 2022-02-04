@@ -261,6 +261,16 @@ button {
 .downloads__item {
   margin-right: 10px;
 }
+@media screen and (max-width: 1399px) {
+  .downloads__item:last-child {
+    margin-right: 0;
+  }
+}
+@media screen and (max-width: 1399px) {
+  .downloads__item img {
+    display: block;
+  }
+}
 
 .additional-navigation {
   margin-left: 15px;
@@ -328,7 +338,6 @@ button {
 }
 
 .footer-navigation {
-  margin: 0 15px;
   display: flex;
   flex-direction: column;
 }

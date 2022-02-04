@@ -32,6 +32,16 @@
   &__item {
     margin-right: 10px;
   }
+  &__item:last-child {
+    @include for-large-down {
+      margin-right: 0;
+    }
+  }
+  &__item img {
+    @include for-large-down {
+      display: block;
+    }
+  }
 }
 
 .additional-navigation {
@@ -96,7 +106,7 @@
   }
 }
 .footer-navigation {
-  margin: 0 15px;
+  // margin: 0 15px;
   display: flex;
   flex-direction: column;
 
