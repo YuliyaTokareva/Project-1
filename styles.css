@@ -1199,7 +1199,31 @@ html {
 }
 
 @media screen and (max-width: 1399px) {
-  footer {
+  .footer {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 1399px) {
+  .order {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 1399px) {
+  .hiring {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 1399px) {
+  .footer {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 1399px) {
+  .audience {
     display: none;
   }
 }

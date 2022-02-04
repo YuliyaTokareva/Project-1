@@ -31,7 +31,27 @@ html {
     flex-direction: column;
   }
 }
-footer {
+.footer {
+  @include for-large-down {
+    display: none;
+  }
+}
+.order {
+  @include for-large-down {
+    display: none;
+  }
+}
+.hiring {
+  @include for-large-down {
+    display: none;
+  }
+}
+.footer {
+  @include for-large-down {
+    display: none;
+  }
+}
+.audience {
   @include for-large-down {
     display: none;
   }
