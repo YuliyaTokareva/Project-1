@@ -14,6 +14,7 @@
 
   &__row {
     display: flex;
+    height: 94px;
 
     @include for-large-up {
       display: flex;
@@ -24,8 +25,9 @@
   }
 
   &__item {
-    height: 94px;
-    min-width: 107px;
+    // height: 94px;
+    // min-width: 107px;
+    max-width: 100%;
     border-bottom: 1px solid $border-color-light-grey;
     border-right: 1px solid $border-color-light-grey;
     display: flex;

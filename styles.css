@@ -82,6 +82,7 @@ button {
 }
 .customers__row {
   display: flex;
+  height: 94px;
 }
 @media screen and (min-width: 1400px) {
   .customers__row {
@@ -92,8 +93,7 @@ button {
   }
 }
 .customers__item {
-  height: 94px;
-  min-width: 107px;
+  max-width: 100%;
   border-bottom: 1px solid #e3e3e3;
   border-right: 1px solid #e3e3e3;
   display: flex;
@@ -1195,12 +1195,6 @@ html {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-  }
-}
-
-@media screen and (max-width: 1399px) {
-  .customers {
-    display: none;
   }
 }
 
