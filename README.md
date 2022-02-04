@@ -1,6 +1,6 @@
 Foundation layout
 
-<h2><a href="https://github.com/YuliyaTokareva.github.io/Project-1" rel="nofollow">Site link</a></h2>
+<h2><a href="https://github.com/YuliyaTokareva.github.io/project" rel="nofollow">Site link</a></h2>
 
 Layout supports mobile (up-to-320) and desktop (to-1400) versions
 
