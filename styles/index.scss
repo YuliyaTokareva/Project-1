@@ -31,11 +31,11 @@ html {
     flex-direction: column;
   }
 }
-// .footer {
-//   @include for-large-down {
-//     display: none;
-//   }
-// }
+.footer {
+  @include for-large-down {
+    display: none;
+  }
+}
 .order {
   @include for-large-down {
     display: none;
@@ -61,11 +61,11 @@ html {
 //     display: none;
 //   }
 // }
-.audience {
-  @include for-large-down {
-    display: none;
-  }
-}
+// .audience {
+//   @include for-large-down {
+//     display: none;
+//   }
+// }
 .tips {
   @include for-large-down {
     display: none;
