@@ -32,21 +32,21 @@ html {
   }
 }
 
-.tips {
-  @include for-large-down {
-    display: none;
-  }
-}
+// .tips {
+//   @include for-large-down {
+//     display: none;
+//   }
+// }
 .footer {
   @include for-large-down {
     display: none;
   }
 }
-.order {
-  @include for-large-down {
-    display: none;
-  }
-}
+// .order {
+//   @include for-large-down {
+//     display: none;
+//   }
+// }
 // .about {
 //   @include for-large-down {
 //     display: none;
