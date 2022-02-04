@@ -56,11 +56,11 @@ html {
     display: none;
   }
 }
-.headline {
-  @include for-large-down {
-    display: none;
-  }
-}
+// .headline {
+//   @include for-large-down {
+//     display: none;
+//   }
+// }
 .audience {
   @include for-large-down {
     display: none;
