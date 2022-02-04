@@ -41,11 +41,21 @@ html {
     display: none;
   }
 }
-// .hiring {
-//   @include for-large-down {
-//     display: none;
-//   }
-// }
+.about {
+  @include for-large-down {
+    display: none;
+  }
+}
+.customers {
+  @include for-large-down {
+    display: none;
+  }
+}
+.hiring {
+  @include for-large-down {
+    display: none;
+  }
+}
 .headline {
   @include for-large-down {
     display: none;

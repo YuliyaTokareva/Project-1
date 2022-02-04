@@ -1211,6 +1211,24 @@ html {
 }
 
 @media screen and (max-width: 1399px) {
+  .about {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 1399px) {
+  .customers {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 1399px) {
+  .hiring {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 1399px) {
   .headline {
     display: none;
   }
