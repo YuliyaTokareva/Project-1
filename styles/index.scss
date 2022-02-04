@@ -41,12 +41,12 @@ html {
     display: none;
   }
 }
-.hiring {
-  @include for-large-down {
-    display: none;
-  }
-}
-.footer {
+// .hiring {
+//   @include for-large-down {
+//     display: none;
+//   }
+// }
+.headline {
   @include for-large-down {
     display: none;
   }

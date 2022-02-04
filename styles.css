@@ -1211,13 +1211,7 @@ html {
 }
 
 @media screen and (max-width: 1399px) {
-  .hiring {
-    display: none;
-  }
-}
-
-@media screen and (max-width: 1399px) {
-  .footer {
+  .headline {
     display: none;
   }
 }
