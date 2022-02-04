@@ -40,11 +40,10 @@
     background-color: transparent;
   }
   &__menu-icon {
-    // display: none;
     width: 18px;
     height: 13px;
     display: inline-block;
-    // background-image: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson24/hw1/icon-hamburger.png);
+    background-image: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson24/hw1/icon-hamburger.png);
   }
 }
 .navigation {
@@ -85,7 +84,6 @@
     width: 48px;
     height: 48px;
     margin-right: 13px;
-    // margin-left: 13px;
     @include for-large-up {
       margin-left: 15px;
     }

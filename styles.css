@@ -504,6 +504,7 @@ button {
   width: 18px;
   height: 13px;
   display: inline-block;
+  background-image: url(https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson24/hw1/icon-hamburger.png);
 }
 
 .navigation {
