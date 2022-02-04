@@ -51,11 +51,11 @@ html {
     display: none;
   }
 }
-.hiring {
-  @include for-large-down {
-    display: none;
-  }
-}
+// .hiring {
+//   @include for-large-down {
+//     display: none;
+//   }
+// }
 // .headline {
 //   @include for-large-down {
 //     display: none;
@@ -66,8 +66,8 @@ html {
 //     display: none;
 //   }
 // }
-.tips {
-  @include for-large-down {
-    display: none;
-  }
-}
+// .tips {
+//   @include for-large-down {
+//     display: none;
+//   }
+// }
