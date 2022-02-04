@@ -1199,6 +1199,12 @@ html {
 }
 
 @media screen and (max-width: 1399px) {
+  .tips {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 1399px) {
   .footer {
     display: none;
   }
@@ -1212,18 +1218,6 @@ html {
 
 @media screen and (max-width: 1399px) {
   .about {
-    display: none;
-  }
-}
-
-@media screen and (max-width: 1399px) {
-  .customers {
-    display: none;
-  }
-}
-
-@media screen and (max-width: 1399px) {
-  .tips {
     display: none;
   }
 }
