@@ -56,3 +56,8 @@ html {
     display: none;
   }
 }
+.tips {
+  @include for-large-down {
+    display: none;
+  }
+}

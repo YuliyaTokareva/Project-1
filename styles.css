@@ -1228,4 +1228,10 @@ html {
   }
 }
 
+@media screen and (max-width: 1399px) {
+  .tips {
+    display: none;
+  }
+}
+
 /*# sourceMappingURL=styles.css.map */
