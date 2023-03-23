@@ -1,6 +1,6 @@
 <h1>Adaptive app<h1>
 
-<h2><a href="https://yuliyatokareva.github.io/project/" rel="nofollow"><img alt="Site link" src="https://img.shields.io/badge/-Live%20app%20%E2%86%92-green?&style=for-the-badge" />Site link</a></h2>
+<a href="https://yuliyatokareva.github.io/project/" rel="nofollow"><img alt="Site link" src="https://img.shields.io/badge/-Live%20app%20%E2%86%92-green?&style=for-the-badge" /></a>
 
 Layout supports mobile (up-to-320) and desktop (to-1400) versions
 
