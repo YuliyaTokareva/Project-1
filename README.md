@@ -3,7 +3,9 @@
 <a href="https://yuliyatokareva.github.io/project/" rel="nofollow"><img alt="Site link" src="https://img.shields.io/badge/-Live%20app%20%E2%86%92-green?&style=for-the-badge" /></a>
 
 <h3>Design:</h3>
-
+<p align="center">
+<img  src="./readme_assets/1.png" width="80%">
+</p>
 <p>Layout supports mobile (up-to-320) and desktop (to-1400) versions<p>
 
 <h3>The tech stack is:</h3>
