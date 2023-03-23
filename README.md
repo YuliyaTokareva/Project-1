@@ -15,7 +15,7 @@
 <li><a href="https://sass-lang.com/" rel="nofollow">Sass (Scss)</a></li>
 <li><a href="https://en.bem.info/methodology/" rel="nofollow">BEM methodology</a></li>
 </ul>
-<h3>Author</h3>
+<h2>Author</h2>
 <ul>
 <li>Tokareva Yuliya</li>
 </ul>
